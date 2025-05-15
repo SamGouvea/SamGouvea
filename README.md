@@ -7,14 +7,14 @@
         <img 
             alt="Stars" 
             title="Total Stars GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/SamGouvea?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/SamGouvea?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
     </a>
     <a href="https://github.com/SamGouvea?tab=followers">
         <img 
             alt="Followers" 
             title="follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SamGouvea?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/SamGouvea?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
 </p>
