@@ -5,15 +5,15 @@
 <p align="left">
     <a href="https://github.com/SamGouvea?tab=repositories&sort=stargazers">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
+            alt="Stars" 
+            title="Total Stars GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/SamGouvea?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/SamGouvea?tab=followers">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="Followers" 
+            title="follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/SamGouvea?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -21,7 +21,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <img 
     align="left" 
@@ -75,7 +75,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Stats
 
 <p>
   <img 
@@ -85,7 +85,12 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=SamGouvea&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+    
+  </p>
+    
+### 📊 Most Used Languages
 
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
